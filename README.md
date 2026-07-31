@@ -28,6 +28,7 @@ I don't just analyze data. I understand what it means for the people and busines
 | Project | Description | Tools |
 |---|---|---|
 | [Urban Mobility & Economic Productivity](https://github.com/carlos-celis-data/urban-mobility-economic-productivity) | Analysis of traffic congestion and GDP per capita across 15 Latin American cities | Python, Pandas, Matplotlib, Seaborn |
+| [ConnectaTel Customer Behavior Analysis](https://github.com/carlos-celis-data/connectatel-customer-segmentation) | Customer segmentation and retention analysis for a Latin American telecom company | Python, Pandas, Seaborn |
 
 ---
 
